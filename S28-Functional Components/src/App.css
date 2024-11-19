@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.headingH{
+  font-size:1.5rem;
+  font-family:cursive;
+  background-color:coral;
+  padding:6px;
+  border-radius:10px;
+  box-shadow:2px 2px 3px greenyellow;
+  border:4px solid black;
+}
+.mainD{
+  width:400px;
+  height:500px;
+  border-radius:5px;
+  border:4px solid black;
+  background-color:lightcyan;
+  display:inline-block;
+  margin:25px;
+}
+
+
+img{
+  width:300px;
+}
